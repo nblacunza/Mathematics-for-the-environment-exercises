@@ -20,6 +20,3 @@ The exercises leverage Julia's performance and mathematical syntax to bridge the
 1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
 2. Ensure you have [Julia](https://julialang.org/) installed.
 3. Add required packages: `using Pkg; Pkg.activate("."); Pkg.instantiate()`
-
----
-*Numerical problems developed by Nicolás Bodnariuk.*
