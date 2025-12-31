@@ -1,1 +1,1 @@
-# Mathematics-for-the-environment-exercises
+# Mathematics for the environment repository
